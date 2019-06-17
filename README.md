@@ -1,4 +1,4 @@
-# Yet-Another_Fefosheep-Mod
+# Yet-Another-Fefosheep-Mod
 FEFOSHEEP!!! THE BEST WAY TO GIT POKEGOMZ IN REL LIF!!!!!
 ![fefosheep](https://lh3.googleusercontent.com/-sHU6x15buL8/XKTlZb6_jvI/AAAAAAAABJQ/LmKCH4WX-Ichvngdd90edRgyp9Tppn9KQCEwYBhgL/w280-h280-p/Screenshot%2B2019-04-03%2Bat%2B11.53.26%2BAM%2B-%2BEdited.png)
 
