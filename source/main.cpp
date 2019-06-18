@@ -3,6 +3,7 @@
 #include <string>
 #include <cstdlib>
 #include <ctime>
+#include <cstring>
 
 using namespace std;
 
@@ -115,3 +116,119 @@ int main(void)
                 if (1 + (rand () % 151) == 48) cout << "Nowe u hav a rel liv Venonat!!!!!" << endl;
                 if (1 + (rand () % 151) == 49) cout << "Nowe u hav a rel liv Venomoth!!!!!" << endl;
                 if (1 + (rand () % 151) == 50) cout << "Nowe u hav a rel liv Diglett!!!!!" << endl;
+                if (1 + (rand () % 151) == 51) cout << "Nowe u hav a rel liv Dugtrio!!!!!" << endl;
+                if (1 + (rand () % 151) == 52) cout << "Nowe u hav a rel liv Meowth!!!!!" << endl;
+                if (1 + (rand () % 151) == 53) cout << "Nowe u hav a rel liv Persian!!!!!" << endl;
+                if (1 + (rand () % 151) == 54) cout << "Nowe u hav a rel liv Psyduck!!!!!" << endl;
+                if (1 + (rand () % 151) == 55) cout << "Nowe u hav a rel liv Golduck!!!!!" << endl;
+                if (1 + (rand () % 151) == 56) cout << "Nowe u hav a rel liv Mankey!!!!!" << endl;
+                if (1 + (rand () % 151) == 57) cout << "Nowe u hav a rel liv Primeape!!!!!" << endl;
+                if (1 + (rand () % 151) == 58) cout << "Nowe u hav a rel liv Growlithe!!!!!" << endl;
+                if (1 + (rand () % 151) == 59) cout << "Nowe u hav a rel liv Arcanine!!!!!" << endl;
+                if (1 + (rand () % 151) == 60) cout << "Nowe u hav a rel liv Poliwag!!!!!" << endl;
+                if (1 + (rand () % 151) == 61) cout << "Nowe u hav a rel liv Poliwhirl!!!!!" << endl;
+                if (1 + (rand () % 151) == 62) cout << "Nowe u hav a rel liv Poliwrath!!!!!" << endl;
+                if (1 + (rand () % 151) == 63) cout << "Nowe u hav a rel liv Abra!!!!!" << endl;
+                if (1 + (rand () % 151) == 64) cout << "Nowe u hav a rel liv Kadabra!!!!!" << endl;
+                if (1 + (rand () % 151) == 65) cout << "Nowe u hav a rel liv Alakazam!!!!!" << endl;
+                if (1 + (rand () % 151) == 66) cout << "Nowe u hav a rel liv Machop!!!!!" << endl;
+                if (1 + (rand () % 151) == 67) cout << "Nowe u hav a rel liv Machoke!!!!!" << endl;
+                if (1 + (rand () % 151) == 68) cout << "Nowe u hav a rel liv Machamp!!!!!" << endl;
+                if (1 + (rand () % 151) == 69) cout << "Nowe u hav a rel liv Bellsprout!!!!!" << endl;
+                if (1 + (rand () % 151) == 70) cout << "Nowe u hav a rel liv Weepinbell!!!!!" << endl;
+                if (1 + (rand () % 151) == 71) cout << "Nowe u hav a rel liv Victreebel!!!!!" << endl;
+                if (1 + (rand () % 151) == 72) cout << "Nowe u hav a rel liv Tentacool!!!!!" << endl;
+                if (1 + (rand () % 151) == 73) cout << "Nowe u hav a rel liv Tentacruel!!!!!" << endl;
+                if (1 + (rand () % 151) == 74) cout << "Nowe u hav a rel liv Geodude!!!!!" << endl;
+                if (1 + (rand () % 151) == 75) cout << "Nowe u hav a rel liv Graveler!!!!!" << endl;
+                if (1 + (rand () % 151) == 76) cout << "Nowe u hav a rel liv Golem!!!!!" << endl;
+                if (1 + (rand () % 151) == 77) cout << "Nowe u hav a rel liv Ponyta!!!!!" << endl;
+                if (1 + (rand () % 151) == 78) cout << "Nowe u hav a rel liv Rapidash!!!!!" << endl;
+                if (1 + (rand () % 151) == 79) cout << "Nowe u hav a rel liv Slowpoke!!!!!" << endl;
+                if (1 + (rand () % 151) == 80) cout << "Nowe u hav a rel liv Slowbro!!!!!" << endl;
+                if (1 + (rand () % 151) == 81) cout << "Nowe u hav a rel liv Magnemite!!!!!" << endl;
+                if (1 + (rand () % 151) == 82) cout << "Nowe u hav a rel liv Magneton!!!!!" << endl;
+                if (1 + (rand () % 151) == 83) cout << "Nowe u hav a rel liv Farfetch'd!!!!!" << endl;
+                if (1 + (rand () % 151) == 84) cout << "Nowe u hav a rel liv Doduo!!!!!" << endl;
+                if (1 + (rand () % 151) == 85) cout << "Nowe u hav a rel liv Dodrio!!!!!" << endl;
+                if (1 + (rand () % 151) == 86) cout << "Nowe u hav a rel liv Seel!!!!!" << endl;
+                if (1 + (rand () % 151) == 87) cout << "Nowe u hav a rel liv Dewgong!!!!!" << endl;
+                if (1 + (rand () % 151) == 88) cout << "Nowe u hav a rel liv Grimer!!!!!" << endl;
+                if (1 + (rand () % 151) == 89) cout << "Nowe u hav a rel liv Muk!!!!!" << endl;
+                if (1 + (rand () % 151) == 90) cout << "Nowe u hav a rel liv Shellder!!!!!" << endl;
+                if (1 + (rand () % 151) == 91) cout << "Nowe u hav a rel liv Cloyster!!!!!" << endl;
+                if (1 + (rand () % 151) == 92) cout << "Nowe u hav a rel liv Gastly!!!!!" << endl;
+                if (1 + (rand () % 151) == 93) cout << "Nowe u hav a rel liv Haunter!!!!!" << endl;
+                if (1 + (rand () % 151) == 94) cout << "Nowe u hav a rel liv Gengar!!!!!" << endl;
+                if (1 + (rand () % 151) == 95) cout << "Nowe u hav a rel liv Onix!!!!!" << endl;
+                if (1 + (rand () % 151) == 96) cout << "Nowe u hav a rel liv Drowzee!!!!!" << endl;
+                if (1 + (rand () % 151) == 97) cout << "Nowe u hav a rel liv Hypno!!!!!" << endl;
+                if (1 + (rand () % 151) == 98) cout << "Nowe u hav a rel liv Krabby!!!!!" << endl;
+                if (1 + (rand () % 151) == 99) cout << "Nowe u hav a rel liv Kingler!!!!!" << endl;
+                if (1 + (rand () % 151) == 100) cout << "Nowe u hav a rel liv Voltorb!!!!!" << endl;
+                if (1 + (rand () % 151) == 101) cout << "Nowe u hav a rel liv Electrode!!!!!" << endl;
+                if (1 + (rand () % 151) == 102) cout << "Nowe u hav a rel liv Exeggcute!!!!!" << endl;
+                if (1 + (rand () % 151) == 103) cout << "Nowe u hav a rel liv Exeggutor!!!!!" << endl;
+                if (1 + (rand () % 151) == 104) cout << "Nowe u hav a rel liv Cubone!!!!!" << endl;
+                if (1 + (rand () % 151) == 105) cout << "Nowe u hav a rel liv Marowak!!!!!" << endl;
+                if (1 + (rand () % 151) == 106) cout << "Nowe u hav a rel liv Hitmonlee!!!!!" << endl;
+                if (1 + (rand () % 151) == 107) cout << "Nowe u hav a rel liv Hitmonchan!!!!!" << endl;
+                if (1 + (rand () % 151) == 108) cout << "Nowe u hav a rel liv Lickitung!!!!!" << endl;
+                if (1 + (rand () % 151) == 109) cout << "Nowe u hav a rel liv Koffing!!!!!" << endl;
+                if (1 + (rand () % 151) == 110) cout << "Nowe u hav a rel liv Weezing!!!!!" << endl;
+                if (1 + (rand () % 151) == 111) cout << "Nowe u hav a rel liv Rhyhorn!!!!!" << endl;
+                if (1 + (rand () % 151) == 112) cout << "Nowe u hav a rel liv Rhydon!!!!!" << endl;
+                if (1 + (rand () % 151) == 113) cout << "Nowe u hav a rel liv Chansey!!!!!" << endl;
+                if (1 + (rand () % 151) == 114) cout << "Nowe u hav a rel liv Tangela!!!!!" << endl;
+                if (1 + (rand () % 151) == 115) cout << "Nowe u hav a rel liv Kangaskhan!!!!!" << endl;
+                if (1 + (rand () % 151) == 116) cout << "Nowe u hav a rel liv Horsea!!!!!" << endl;
+                if (1 + (rand () % 151) == 117) cout << "Nowe u hav a rel liv Seadra!!!!!" << endl;
+                if (1 + (rand () % 151) == 118) cout << "Nowe u hav a rel liv Goldeen!!!!!" << endl;
+                if (1 + (rand () % 151) == 119) cout << "Nowe u hav a rel liv Seaking!!!!!" << endl;
+                if (1 + (rand () % 151) == 120) cout << "Nowe u hav a rel liv Staryu!!!!!" << endl;
+                if (1 + (rand () % 151) == 121) cout << "Nowe u hav a rel liv Starmie!!!!!" << endl;
+                if (1 + (rand () % 151) == 122) cout << "Nowe u hav a rel liv Mr. Mime!!!!!" << endl;
+                if (1 + (rand () % 151) == 123) cout << "Nowe u hav a rel liv Scyther!!!!!" << endl;
+                if (1 + (rand () % 151) == 124) cout << "Nowe u hav a rel liv Jynx!!!!!" << endl;
+                if (1 + (rand () % 151) == 125) cout << "Nowe u hav a rel liv Electabuzz!!!!!" << endl;
+                if (1 + (rand () % 151) == 126) cout << "Nowe u hav a rel liv Magmar!!!!!" << endl;
+                if (1 + (rand () % 151) == 127) cout << "Nowe u hav a rel liv Pinsir!!!!!" << endl;
+                if (1 + (rand () % 151) == 128) cout << "Nowe u hav a rel liv Tauros!!!!!" << endl;
+                if (1 + (rand () % 151) == 129) cout << "Nowe u hav a rel liv Magikarp!!!!!" << endl;
+                if (1 + (rand () % 151) == 130) cout << "Nowe u hav a rel liv Gyarados!!!!!" << endl;
+                if (1 + (rand () % 151) == 131) cout << "Nowe u hav a rel liv Lapras!!!!!" << endl;
+                if (1 + (rand () % 151) == 132) cout << "Nowe u hav a rel liv Ditto!!!!!" << endl;
+                if (1 + (rand () % 151) == 133) cout << "Nowe u hav a rel liv Eevee!!!!!" << endl;
+                if (1 + (rand () % 151) == 134) cout << "Nowe u hav a rel liv Vaporeon!!!!!" << endl;
+                if (1 + (rand () % 151) == 135) cout << "Nowe u hav a rel liv Jolteon!!!!!" << endl;
+                if (1 + (rand () % 151) == 136) cout << "Nowe u hav a rel liv Flareon!!!!!" << endl;
+                if (1 + (rand () % 151) == 137) cout << "Nowe u hav a rel liv Porygon!!!!!" << endl;
+                if (1 + (rand () % 151) == 138) cout << "Nowe u hav a rel liv Omanyte!!!!!" << endl;
+                if (1 + (rand () % 151) == 139) cout << "Nowe u hav a rel liv Omastar!!!!!" << endl;
+                if (1 + (rand () % 151) == 140) cout << "Nowe u hav a rel liv Kabuto!!!!!" << endl;
+                if (1 + (rand () % 151) == 141) cout << "Nowe u hav a rel liv Kabutops!!!!!" << endl;
+                if (1 + (rand () % 151) == 142) cout << "Nowe u hav a rel liv Aerodactyl!!!!!" << endl;
+                if (1 + (rand () % 151) == 143) cout << "Nowe u hav a rel liv Snorlax!!!!!" << endl;
+                if (1 + (rand () % 151) == 144) cout << "Nowe u hav a rel liv Articuno!!!!!" << endl;
+                if (1 + (rand () % 151) == 145) cout << "Nowe u hav a rel liv Zapdos!!!!!" << endl;
+                if (1 + (rand () % 151) == 146) cout << "Nowe u hav a rel liv Moltres!!!!!" << endl;
+                if (1 + (rand () % 151) == 147) cout << "Nowe u hav a rel liv Dratini!!!!!" << endl;
+                if (1 + (rand () % 151) == 148) cout << "Nowe u hav a rel liv Dragonair!!!!!" << endl;
+                if (1 + (rand () % 151) == 149) cout << "Nowe u hav a rel liv Dragonite!!!!!" << endl;
+                if (1 + (rand () % 151) == 150) cout << "Nowe u hav a rel liv Mewtwo!!!!!" << endl;
+                if (1 + (rand () % 151) == 151) cout << "Nowe u hav a rel liv Mew!!!!!" << endl;
+}
+
+		gfxFlushBuffers();
+		gfxSwapBuffers();
+		gspWaitForVBlank();
+		if (kDown & KEY_B) break;
+		if (A == 31500){
+		memset(param, 0, sizeof(param));
+		memset(hmac, 0, sizeof(hmac));
+		APT_PrepareToDoApplicationJump(0, shopID, 0);
+		APT_DoApplicationJump(param, sizeof(param), hmac); } }
+
+	gfxExit();
+	return 0;
+}
