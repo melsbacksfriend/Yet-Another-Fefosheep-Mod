@@ -10,9 +10,9 @@ TOPDIR ?= $(CURDIR)
 include $(DEVKITARM)/3ds_rules
 
 # App information
-APP_TITLE           :=	fefoSheep
-APP_DESCRIPTION     :=	fefoSheep - bes way 2 git fri gam
-APP_AUTHOR          :=	kekmaster97 & T3CHNOLOG1C
+APP_TITLE           :=	yet another fefoSheep mod
+APP_DESCRIPTION     :=	yet another fefoSheep mod
+APP_AUTHOR          :=	Melsbacksfriend
 
 VERSION_MAJOR		:= 1
 VERSION_MINOR		:= 6
