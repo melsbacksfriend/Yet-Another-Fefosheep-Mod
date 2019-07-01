@@ -875,9 +875,6 @@ int main(void)
                 if (1 + (rand () % 809) == 807) cout << "Nowe u hav a rel liv Zeraora!!!!!" << endl;
                 if (1 + (rand () % 809) == 808) cout << "Nowe u hav a rel liv Meltan!!!!!" << endl;
                 if (1 + (rand () % 809) == 809) cout << "Nowe u hav a rel liv Melmetal!!!!!" << endl;
-                else {
-                     cout << "ur so lucy.  u hav al th pokegomz" << endl;
-}
 }
 
 
