@@ -53,6 +53,6 @@ veyr good produT!!! you gi  pokegom for FRI!!!
 
 [cechk out our othe r  ports!!](https://github.com/fefoSheep)
 
-joindicord:: https://discord.gg/hKQYa8N
+joindicord:: https://discord.gg/nxrSSs9
 
 Tanks Loxon fur origenal vurshin.  
